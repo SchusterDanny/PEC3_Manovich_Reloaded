@@ -25,18 +25,24 @@ La hibridación en Photoshop, también se aplica a la forma en que los usuarios 
 
 ## Re-descubriendo la hibridacion: Música con Spotify
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Spotify](https://cdn-icons-png.flaticon.com/512/174/174872.png?w=740&t=st=1684317003~exp=1684317603~hmac=13dc19170ef81ad09a9199325e51f3864649a8adeb322784b83e9468653a82b6)
+
+La aplicación de la teoría de la hibridación de Manovich a Spotify muestra cómo la plataforma utiliza la tecnología para combinar elementos de diferentes canciones y géneros musicales para crear listas de reproducción personalizadas y recomendaciones únicas para cada usuario. Esto permite una experiencia musical más personalizada y variada para cada usuario y es un ejemplo de cómo la hibridación se está convirtiendo en una tendencia importante en la cultura digital.
+
+En Spotify, la hibridación se aplica en la forma en que se generan las listas de reproducción personalizadas y las recomendaciones para cada usuario. Spotify utiliza algoritmos de aprendizaje automático y análisis de datos para analizar los gustos musicales de cada usuario. Luego, se utilizan estos datos para crear listas de reproducción personalizadas basadas en esos gustos. Estas listas de reproducción pueden incluir canciones de diferentes géneros y artistas, creando así una especie de "hibridación musical".
 
 ## Conclusiones
 
-## Referencias y Bibliografía
+## Bibliografía
 
+### Referencias
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Manovich, Lev. (2001). **The Language of New Media**.
 
 ### Imágenes
 * Imagen de rawpixel.com en freepik.es (https://www.freepik.es/foto-gratis/trabajadores-que-tienen-grafico-red-reunion-juntos_16461868.htm#query=digital%20culture&position=0&from_view=search&track=ais)
 * Imagen de flaticon en freepik.es (https://www.freepik.es/iconos-gratis/photoshop_14590338.htm#page=2&query=photoshop&position=29&from_view=search&track=sph)
+* Imagen de flaticon en freepik.es (https://www.freepik.es/iconos-gratis/spotify_14070235.htm#query=spotify&position=16&from_view=search&track=sph)
 
 
 ----
