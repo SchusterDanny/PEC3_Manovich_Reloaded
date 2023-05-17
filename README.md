@@ -9,18 +9,18 @@ Fecha: 25/05/2023
 
 ## Introducción
 
-Photoshop, el software líder en la edición de imágenes, ha permitido a los usuarios no solo corregir y mejorar imágenes existentes, sino también crear imágenes completamente nuevas. La herramienta de capas de Photoshop, en particular, ha permitido a los artistas combinar varias imágenes en una sola y manipular cada capa de manera independiente. Esto ha llevado a la creación de nuevas formas de arte híbrido, como la combinación de elementos de diferentes épocas y culturas.
-
-Manovich argumenta que la hibridación es una tendencia central en la cultura contemporánea, y que la creación de nuevos híbridos visuales es una forma de expresión de la cultura digital. Esta idea es evidente en la cultura del remix, donde se toman elementos de diferentes fuentes y se combinan para crear algo nuevo.
-
-La hibridación en Photoshop, también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. "La hibridación se está convirtiendo en una estrategia creativa cada vez más popular en la cultura digital. Los artistas digitales están creando nuevas formas de arte al combinar elementos de diferentes fuentes y culturas" (Lev Manovich, "The Language of New Media"). Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
+La teoría de la hibridación de Lev Manovich se refiere a la convergencia y mezcla de diferentes medios y formas de expresión en el entorno digital contemporáneo. "En la cultura digital, la hibridación se ha convertido en la norma: las formas culturales se combinan y mezclan, creando algo nuevo en el proceso" (Lev Manovich, "The Language of New Media"). En el ensayo veremos como **Photoshop** y **Spotify** son plataformas creadas por la combinación de elementos de la cultura digital y cultura popular.
 
 
 ## Re-descubriendo la hibridacion: Arte Digital con Photoshop
 
 ![Photoshop](https://cdn-icons-png.flaticon.com/512/541/541586.png?w=740&t=st=1684309349~exp=1684309949~hmac=5c646df59c55fcaf280e427f6b68c932d7f3a719505fa4e66fa39ede7439e9eb)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Photoshop, el software líder en la edición de imágenes, ha permitido a los usuarios no solo corregir y mejorar imágenes existentes, sino también crear imágenes completamente nuevas. La herramienta de capas de Photoshop, en particular, ha permitido a los artistas combinar varias imágenes en una sola y manipular cada capa de manera independiente. Esto ha llevado a la creación de nuevas formas de arte híbrido, como la combinación de elementos de diferentes épocas y culturas.
+
+Manovich argumenta que la hibridación es una tendencia central en la cultura contemporánea, y que la creación de nuevos híbridos visuales es una forma de expresión de la cultura digital. Esta idea es evidente en la cultura del remix, donde se toman elementos de diferentes fuentes y se combinan para crear algo nuevo.
+
+La hibridación en Photoshop, también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. "La hibridación se está convirtiendo en una estrategia creativa cada vez más popular en la cultura digital. Los artistas digitales están creando nuevas formas de arte al combinar elementos de diferentes fuentes y culturas" (Lev Manovich, "The Language of New Media"). Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
 
 
 ## Re-descubriendo la hibridacion: Música con Spotify
