@@ -9,7 +9,7 @@ Fecha: 25/05/2023
 
 ## Introducción
 
-La teoría de la hibridación de Lev Manovich se refiere a la convergencia y mezcla de diferentes medios y formas de expresión en el entorno digital contemporáneo. "En la cultura digital, la hibridación se ha convertido en la norma: las formas culturales se combinan y mezclan, creando algo nuevo en el proceso" (Lev Manovich, "The Language of New Media"). En el ensayo veremos como **Photoshop y **Spotify son plataformas creadas por la combinación de elementos de la cultura digital y cultura popular. 
+La teoría de la hibridación de Lev Manovich se refiere a la convergencia y mezcla de diferentes medios y formas de expresión en el entorno digital contemporáneo. "En la cultura digital, la hibridación se ha convertido en la norma: las formas culturales se combinan y mezclan, creando algo nuevo en el proceso" (Lev Manovich, "The Language of New Media"). En el ensayo veremos como **Photoshop** y **Spotify** son plataformas creadas por la combinación de elementos de la cultura digital y cultura popular. 
 
 
 ## Re-descubriendo la hibridacion: Arte Digital con Photoshop
