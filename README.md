@@ -22,6 +22,9 @@ Manovich argumenta que la hibridación es una tendencia central en la cultura co
 
 La hibridación en Photoshop, también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. "La hibridación se está convirtiendo en una estrategia creativa cada vez más popular en la cultura digital. Los artistas digitales están creando nuevas formas de arte al combinar elementos de diferentes fuentes y culturas" (Lev Manovich, "The Language of New Media"). Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
 
+Por ejemplo, los artistas digitales pueden tomar una imagen de una pintura renacentista y combinarla con elementos de la cultura pop moderna, como una imagen de un personaje de una película o una canción popular. La combinación de estos elementos crea una nueva obra de arte que es una fusión de dos culturas diferentes.
+
+La hibridación también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
 
 ## Re-descubriendo la hibridacion: Música con Spotify
 
@@ -38,6 +41,8 @@ En Spotify, la hibridación se aplica en la forma en que se generan las listas d
 ### Referencias
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Manovich, Lev. (2001). **The Language of New Media**.
+* Photoshop, wikipedia.  https://en.wikipedia.org/wiki/Adobe_Photoshop
+* Adobe Photoshop Review 2023, space . https://www.space.com/adobe-photoshop-review-2023
 
 ### Imágenes
 * Imagen de rawpixel.com en freepik.es (https://www.freepik.es/foto-gratis/trabajadores-que-tienen-grafico-red-reunion-juntos_16461868.htm#query=digital%20culture&position=0&from_view=search&track=ais)
