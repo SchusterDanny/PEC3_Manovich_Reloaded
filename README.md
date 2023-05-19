@@ -9,7 +9,7 @@ Fecha: 25/05/2023
 
 ## Introducción
 
-La teoría de la hibridación de Lev Manovich se refiere a la convergencia y mezcla de diferentes medios y formas de expresión en el entorno digital contemporáneo. "En la cultura digital, la hibridación se ha convertido en la norma: las formas culturales se combinan y mezclan, creando algo nuevo en el proceso" (Lev Manovich, "The Language of New Media"). En el ensayo veremos como **Photoshop** y **Spotify** son plataformas creadas por la combinación de elementos de la cultura digital y cultura popular.
+La teoría de la hibridación de Lev Manovich se refiere a la convergencia y mezcla de diferentes medios y formas de expresión en el entorno digital contemporáneo. Señala que la hibridación no solo es una tendencia en la cultura popular, sino también en la tecnología. La tecnología de la información se está fusionando con otras tecnologías para crear nuevas formas de tecnología híbrida. "En la cultura digital, la hibridación se ha convertido en la norma: las formas culturales se combinan y mezclan, creando algo nuevo en el proceso" (Lev Manovich, "The Language of New Media"). En el ensayo veremos como **Photoshop** y **Spotify** son plataformas creadas por la combinación de elementos de la cultura digital y cultura popular.
 
 
 ## Re-descubriendo la hibridacion: Arte Digital con Photoshop
@@ -26,6 +26,9 @@ Por ejemplo, los artistas digitales pueden tomar una imagen de una pintura renac
 
 La hibridación también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
 
+En conclusión, la hibridación entre el software de edición de imágenes como Photoshop y la cultura visual contemporánea ha llevado a la creación de nuevas formas de arte y ha permitido la expresión de la cultura digital. Además, se aplica a Photoshop en la manera en que permite a los usuarios combinar elementos de diferentes épocas y culturas para crear nuevas formas de arte híbrido. Esta capacidad de combinar y manipular capas independientes también permite a los usuarios crear nuevas formas de arte abstracto y surrealista que de otra manera no serían posibles. La teoría de Manovich sobre la hibridación nos ayuda a entender cómo se están fusionando diferentes aspectos de la cultura y la tecnología para crear algo nuevo y emocionante.
+
+
 ## Re-descubriendo la hibridacion: Música con Spotify
 
 ![Spotify](https://cdn-icons-png.flaticon.com/512/174/174872.png?w=740&t=st=1684317003~exp=1684317603~hmac=13dc19170ef81ad09a9199325e51f3864649a8adeb322784b83e9468653a82b6)
@@ -34,7 +37,6 @@ La aplicación de la teoría de la hibridación de Manovich a Spotify muestra c�
 
 En Spotify, la hibridación se aplica en la forma en que se generan las listas de reproducción personalizadas y las recomendaciones para cada usuario. Spotify utiliza algoritmos de aprendizaje automático y análisis de datos para analizar los gustos musicales de cada usuario. Luego, se utilizan estos datos para crear listas de reproducción personalizadas basadas en esos gustos. Estas listas de reproducción pueden incluir canciones de diferentes géneros y artistas, creando así una especie de "hibridación musical".
 
-## Conclusiones
 
 ## Bibliografía
 
