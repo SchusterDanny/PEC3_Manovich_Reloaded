@@ -30,6 +30,8 @@ Por ejemplo, los artistas digitales pueden tomar una imagen de una pintura renac
 
 La hibridación también se aplica a la forma en que los usuarios de Photoshop pueden crear nuevas formas de arte abstracto y surrealista al combinar imágenes y elementos que no tienen una relación obvia. Los usuarios pueden combinar elementos naturales, como el cielo o el agua, con elementos artificiales, como la arquitectura o la tecnología, para crear una imagen que parece imposible en el mundo real.
 
+![Photoshop](https://cdn-icons-png.flaticon.com/512/541/541586.png?w=740&t=st=1684309349~exp=1684309949~hmac=5c646df59c55fcaf280e427f6b68c932d7f3a719505fa4e66fa39ede7439e9eb)
+
 En conclusión, la hibridación entre el software de edición de imágenes como Photoshop y la cultura visual contemporánea ha llevado a la creación de nuevas formas de arte y ha permitido la expresión de la cultura digital. Además, se aplica a Photoshop en la manera en que permite a los usuarios combinar elementos de diferentes épocas y culturas para crear nuevas formas de arte híbrido. Esta capacidad de combinar y manipular capas independientes también permite a los usuarios crear nuevas formas de arte abstracto y surrealista que de otra manera no serían posibles. La teoría de Manovich sobre la hibridación nos ayuda a entender cómo se están fusionando diferentes aspectos de la cultura y la tecnología para crear algo nuevo y emocionante.
 
 
