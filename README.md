@@ -62,6 +62,8 @@ La industria musical ha experimentado una serie de cambios significativos en las
 En Spotify, la hibridación se aplica en la forma en que se generan las listas de reproducción personalizadas y las recomendaciones para cada usuario. *("Los algoritmos de aprendizaje automático y análisis de datos permiten la hibridación de diferentes géneros y estilos musicales en servicios como Spotify")* (Manovich, 2018). Spotify utiliza algoritmos de aprendizaje automático y análisis de datos para analizar los gustos musicales de cada usuario. Luego, se utilizan estos datos para crear listas de reproducción personalizadas basadas en esos gustos. Estas listas de reproducción pueden incluir canciones de diferentes géneros y artistas, creando así una especie de "hibridación musical".
 
 
+![Lista de reproducción](https://github.com/SchusterDanny/PEC3_Manovich_Reloaded/blob/main/SpootifyListaReproduccion.jpg)
+
 
 Ademas, la teoría muestra cómo la plataforma utiliza la tecnología para combinar elementos de diferentes canciones y géneros musicales para crear listas de reproducción personalizadas y recomendaciones únicas para cada usuario. Esto permite una experiencia musical más personalizada y variada para cada usuario y es un ejemplo de cómo la hibridación se está convirtiendo en una tendencia importante en la cultura digital.
 
@@ -76,8 +78,11 @@ En conclusión, la hibridación es una tendencia creciente en la cultura digital
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Manovich, Lev. (2001). **The Language of New Media**.
 * Manovich, Lev. (2018). **AI aesthetics**.
-* Photoshop, wikipedia.  https://en.wikipedia.org/wiki/Adobe_Photoshop
-* Adobe Photoshop Review 2023, space . https://www.space.com/adobe-photoshop-review-2023
+* Photoshop, wikipedia:  https://en.wikipedia.org/wiki/Adobe_Photoshop
+* Adobe Photoshop Review 2023, space: https://www.space.com/adobe-photoshop-review-2023
+* Spotify, wikipedia: https://en.wikipedia.org/wiki/Spotify
+* Spotify lanza la función Ampliar para completar las listas con canciones recomendadas, europapress: https://www.europapress.es/portaltic/internet/noticia-spotify-lanza-funcion-ampliar-completar-listas-canciones-recomendadas-20210910143236.html
+* Cómo mejorar las recomendaciones que te hace Spotify, lasexta: https://www.lasexta.com/tecnologia-tecnoxplora/apps/como-mejorar-recomendaciones-que-hace-spotify_2023021163e7e6d77b624e0001ad8be9.html
 
 ### Imágenes
 * Imagen de rawpixel.com en freepik.es (https://www.freepik.es/foto-gratis/trabajadores-que-tienen-grafico-red-reunion-juntos_16461868.htm#query=digital%20culture&position=0&from_view=search&track=ais)
